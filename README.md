@@ -1,2 +1,9 @@
-# idd-fa18-lab1
-Template for Lab 1 for IDD Fall 2018
+# Lab 1
+
+In this lab, you'll explore the interaction engine.
+
+### Connecting to the IxE
+
+1. Note your two-digit IxE number from your kit. You'll use this in place of [00] anywhere you see that in the instructions below.
+
+2. Connect your IxE to the `DeviceFarm` network
