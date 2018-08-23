@@ -13,4 +13,4 @@ In this lab, you'll explore the interaction engine.
 
 ### Running Node.js
 
-1. On your IxE, download Node.js
+1. On your IxE, download Node.js from [here](http://nodejs.org).
